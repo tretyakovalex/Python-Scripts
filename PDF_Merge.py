@@ -1,4 +1,4 @@
-# Creating a simple GUI to merge PDF Files! 
+# Creating a simple GUI to merge PDF Files.
 import os
 import sys
 from PyQt5.QtWidgets import *
