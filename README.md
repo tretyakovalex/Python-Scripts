@@ -1,5 +1,5 @@
 # PDF_Merge
-This is a simple GUI script created in Python using the Qt library to Merge PDF Files.
+This is a simple GUI script created in Python using the Qt library Merges PDF Files.
 
 This will be improved over time, and other features are to be added.
 
