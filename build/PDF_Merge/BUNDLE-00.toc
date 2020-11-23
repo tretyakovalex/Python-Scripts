@@ -1,0 +1,3 @@
+([('PDF_Merge',
+   '/Users/karlembeast/builds/GitImport/Python-Scripts/dist/PDF_Merge',
+   'EXECUTABLE')],)
