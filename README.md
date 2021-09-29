@@ -4,9 +4,9 @@ This is a simple GUI script created in Python using the Qt library to merge PDF 
 This will be improved over time, and other features will be added.
 
 # How to use
-The source code is stored in the file labled: "PDF_Merge.py".
+Source code located in `PDF_Merge.py`
 
-The exec file could be found in the "dist" folder -> PDF_Merge.exec
+The executable file could be found in the "dist" folder -> PDF_Merge.exec
 
 ## To-Add List:
 + Ability to convert images to pdf
